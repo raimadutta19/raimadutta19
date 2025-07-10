@@ -1,4 +1,6 @@
-# 👋 Hi, I'm Raima Dutta
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F75C7E&width=435&lines=Hi%2C+I'm+Raima+Dutta;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+</p>
 
 🎓 B.Tech CSE (Data Science) | 7th Semester  
 💡 Exploring Full-Stack Development, AI/ML, and Cybersecurity  
